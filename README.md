@@ -1,3 +1,6 @@
+## Feature Branch Update
+
+This update was made on the feature-readme branch to practice using branches with a remote repository.
 # :wave: The Basics of GitHub
 
 - Read through the below content so you can understand some commonly used terms and uses of GitHub
