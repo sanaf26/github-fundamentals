@@ -12,3 +12,14 @@
 ## Feedback on the course
 I found the hands-on tasks helpful, especially working with branches and PRs.
 It would be useful to see more real-world examples of GitHub workflows in teams.
+
+> Below are some examples I've learnt
+
+```git status - current state of the repo ```
+
+```git clone - creates a local copy of a remote repo```
+
+```git pull - fetches and merges the latest changes from the remore repo```
+
+
+
